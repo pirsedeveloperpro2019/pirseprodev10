@@ -7,10 +7,10 @@ client.on('ready', () => {
 });
 
 client.on('ready', async() => {
-var server = "510151527663665154"; // ايدي السررفر
-var channel = "510806759565295619";//ايدي الروم
+var server = "588385070822326306"; // ايدي السررفر
+var channel = "588385070822326310";//ايدي الروم
     setInterval(()=>{
-    client.guilds.get(server).channels.get(channel).send('**محمود  محمود  محمود  محمود  محمود  محمود  محمود  محمود  محمود  محمود  محمود  محمود  محمود  محمود  محمود  محمود  محمود  محمود محمود  محمود  محمود  محمود  محمود  محمود  محمود  محمود  محمود  محمود  محمود  محمود  محمود  محمود  محمود  محمود  محمود  محمود محمود  محمود  محمود  محمود  محمود  محمود  محمود  محمود  محمود  محمود  محمود  محمود  محمود  محمود  محمود  محمود  محمود  محمود**')
+    client.guilds.get(server).channels.get(channel).send('**hi,hi,hi,hi,hi,hi,hi,hi,hi,hi,hi,hi,hi,hi,hi,hi,hi,hi,hi,hi,hi,hi,hi,hi,hi,hi,hi,hi,hi,hi,hi,hi,hi,hi,hi,hi,hi,hi,hi,hi,hi,hi,hi,hi,hi,hi,hi,hi,hi,hi,hi,hi,hi,hi,hi,hi,hi,hi,hi,hi,hi,hi,hi,hi,hi, **')
     },305);
 })
 
